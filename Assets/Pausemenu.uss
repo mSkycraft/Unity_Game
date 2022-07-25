@@ -1,0 +1,16 @@
+.button-style {
+    background-image: url('project://database/Assets/Scenes/Group%202750.png?fileID=2800000&guid=ca2e61299f437e448819d621a081894e&type=3#Group 2750');
+    -unity-font: url('project://database/Assets/Scenes/supercell-magic.ttf?fileID=12800000&guid=2286ab84285bc2d4da9724722333024e&type=3#supercell-magic');
+}
+
+.button-style:hover {
+    background-image: url('project://database/Assets/Scenes/Group%202750.png?fileID=2800000&guid=ca2e61299f437e448819d621a081894e&type=3#Group 2750');
+    -unity-background-image-tint-color: rgb(144, 144, 144);
+    -unity-font: url('project://database/Assets/Scenes/supercell-magic.ttf?fileID=12800000&guid=2286ab84285bc2d4da9724722333024e&type=3#supercell-magic');
+}
+
+.button-style:active {
+    background-image: url('project://database/Assets/Scenes/Group%202750.png?fileID=2800000&guid=ca2e61299f437e448819d621a081894e&type=3#Group 2750');
+    -unity-background-image-tint-color: rgb(79, 79, 79);
+    -unity-font: url('project://database/Assets/Scenes/supercell-magic.ttf?fileID=12800000&guid=2286ab84285bc2d4da9724722333024e&type=3#supercell-magic');
+}
